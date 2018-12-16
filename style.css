@@ -625,3 +625,5 @@ label, legend, fieldset {
   display: block;
   margin-bottom: .5rem;
   font-weight: 600; }
+
+a { border-bottom: 2px solid #c9c9c9; }
